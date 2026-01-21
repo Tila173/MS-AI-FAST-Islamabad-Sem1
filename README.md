@@ -18,7 +18,7 @@ I’ll be uploading coursework, assignments, notes, projects, and useful resourc
 ---
 
 ## 🔗 Other Semester Repositories
-- [Semester 2 – FAST ISB MS AI](#)  
+- [Semester 2 – FAST ISB MS AI](https://github.com/Tila173/MS-AI-FAST-Islamabad-Sem2/tree/main)  
 - [Semester 3 – FAST ISB MS AI](#)  
 - [Semester 4 – FAST ISB MS AI](#)  
 
